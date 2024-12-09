@@ -92,15 +92,6 @@ Please feel free to reach out via [Email](mailto:hk.karimi.93@gmail.com) if you'
 
 # Work Experience 💼
 
-## Mammut World Group · Apprenticeship
-
-**Position:** 
-Artificial Intelligence Engineer
-
-**Duration:** Oct 2022 - Present
-
-**Description:** One of the essential requirements for industrial and economic development in any country is the field of logistics and its transportation infrastructure. For this reason, Mammut Trailer was the first company in Iran to replace the outdated and non-standard manufacturing methods of road transportation equipment with the latest technologies in the world. As the first standard semi-trailer manufacturer in the country with a production capacity of over fifty semi-trailers per day, Mammut Trailer has been producing high-quality products with the latest technologies and has been delivering them to the transportation market. Trailers that are made with modern axles, braking systems, valves, and other accessories, in addition to reducing fuel consumption and vehicle wear and tear, also bring high safety to road traffic.
-
 ## SYNTECH innovation center
 **Position:** 
 Artificial Intelligence Researcher  
